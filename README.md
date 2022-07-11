@@ -1,3 +1,11 @@
+# Project Demo Image 
+
+## This project introduces us to fun facts of react with some cool looking UI
+
+![image](https://user-images.githubusercontent.com/76248886/178284424-d11b094a-16db-40c2-871d-536d614a8af8.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
